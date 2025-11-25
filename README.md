@@ -1,4 +1,4 @@
-# Password_saver_docker"
+# Password_saver_docker
 ---
 Проект по сохранению паролей от сайтов на Spring-boot с подключением postgresql и техническим UI Swagger
 ---
@@ -8,8 +8,8 @@
 
 Инициализация БД происходит автоматически через init.sql файл, ничего дополнительного кроме выполнения
 ```
-docker compose up --build -ddocker compose up --build -d
+docker compose up --build -d
 ```
 Не требуется.
 
-Суть проекта сайт дял хранения паролей, сделано только тех UI на swagger.
+Суть проекта - сайт дял хранения паролей, сделано только тех UI на swagger, работа нескольких ручек через docker проверена.
