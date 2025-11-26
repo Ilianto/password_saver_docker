@@ -13,3 +13,8 @@ docker compose up --build -d
 Не требуется.
 
 Суть проекта - сайт для хранения паролей, сделано только тех UI на swagger, работа нескольких ручек через docker проверена.
+
+Ссылка на UI свагера: 
+<a>
+http://localhost:8080/swagger-ui/index.html#/
+<a/>
